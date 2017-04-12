@@ -1,0 +1,9 @@
+.center{
+    text-align: center;
+}
+.checked {
+    text-decoration: line-through;
+  }
+  .checkbox {
+    display: inline !important;
+  }
